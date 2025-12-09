@@ -3,7 +3,7 @@
 This project contains pristine versions of React/Next.js packages without any known vulnerabilities.
 
 ## Project Type
-Simple Next.js app with npm package manager using range version specifiers
+This project contains pristine versions of React/Next.js packages without any known vulnerabilities.
 
 ## Variant: pristine
 
