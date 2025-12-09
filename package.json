@@ -1,0 +1,17 @@
+{
+  "name": "single-nextjs-npm-range",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "npx fix-react2shell-next --dry-run --json",
+    "fix": "npx fix-react2shell-next --json"
+  },
+  "dependencies": {
+    "next": ">=15.1.9 <16.0.0",
+    "react": ">=18.3.1 <19.0.0",
+    "react-dom": ">=18.3.1 <19.0.0"
+  }
+}
